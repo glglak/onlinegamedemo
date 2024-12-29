@@ -36,11 +36,3 @@ This game is built using vanilla JavaScript and HTML5 Canvas. No additional depe
     ├── player.js
     └── collision.js
 ```
-
-## Contributing
-
-Feel free to submit issues and enhancement requests!
-
-## License
-
-MIT License - feel free to use this code for your own projects!
